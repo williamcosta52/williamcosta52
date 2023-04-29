@@ -7,7 +7,7 @@
   </li>
   <br/>
   <li>
-      👾 I love play games.
+      👾 I love playing games.
   </li>
   <br/>
   <li>
