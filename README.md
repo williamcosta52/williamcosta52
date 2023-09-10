@@ -63,4 +63,8 @@
 <div align="left">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiliancosta52@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamcosta52/)
 </div>
+
+[![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=williamcosta52&theme=dark)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=williamcosta52)
+
