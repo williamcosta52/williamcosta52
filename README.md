@@ -48,9 +48,8 @@
   
 ### DevOps 🤝:
   <div> 
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Heroku%20-%2320232a.svg?&style=for-the-badge&color=430098&logo=Heroku&logoColor=ffffff"/>         <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
   
