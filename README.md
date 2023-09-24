@@ -24,6 +24,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=E34F26&logo=HTML5&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=react&logoColor=q61DAFB"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/styled components%20-%2320232a.svg?&style=for-the-badge&color=DB7093&logo=styled-components&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
  
 </div>
 
