@@ -55,11 +55,9 @@
   </div>
   
 ### Tools 🛠:
- <div> 
-    <img style='margin: 5px;' src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>     
+ <div>
     <img style='margin: 5px;' src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img style='margin: 5px;' src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-    <img style='margin: 5px;' src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img style='margin: 5px;' src= "https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
   </div>
 
